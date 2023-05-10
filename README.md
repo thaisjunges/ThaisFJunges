@@ -1,5 +1,4 @@
 # Olá, me chamo Thais F.Junges !
-# Bem vindo ao meu perfil GitHub
 
 ## Contatos
 <div>
